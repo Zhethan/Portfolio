@@ -95,7 +95,7 @@ function randomNumber(min,max)
 
 
 var colorArray = [
-  "#ffffff",
+  "#ff7f00",
   "#00ff00",
   "#ffff00",
   "#ff0000",
@@ -170,9 +170,9 @@ for (var i = 0; i < 600; i++) {
 var x = Math.random()*canX;
 
 var y = Math.random()*canY;
-var dy = (4-radius)/4;
-var radius = Math.random()*3+0.1;
-var dx = (4-radius)/4;
+var dy = (12-radius)/7;
+var radius = Math.random()*6+0.1;
+var dx = (7-radius)/7;
 circleArray.push(
   new Circle(x,y,radius,dx,dy))
 }
