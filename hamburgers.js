@@ -8,7 +8,7 @@
   <link href="hamburgers.css" rel="stylesheet">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="index.js" defer></script>
-  <title>Ethan Yu</title>
+  <title>Paul Beltran</title>
   <script>
   AOS.init();
 </script>
